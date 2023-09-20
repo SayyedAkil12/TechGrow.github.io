@@ -1,2 +1,2 @@
-# TechGrow.github.io
-TechGrow
+# Techgrow
+Techgrow
